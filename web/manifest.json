@@ -1,6 +1,6 @@
 {
-    "name": "designs",
-    "short_name": "designs",
+    "name": "animated_custom_painter",
+    "short_name": "animated_custom_painter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

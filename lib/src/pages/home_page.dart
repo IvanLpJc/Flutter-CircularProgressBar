@@ -1,5 +1,5 @@
-import 'package:designs/src/challenges/animated_square_page.dart';
-import 'package:designs/src/widgets/headers.dart';
+import 'package:animated_custom_painter/src/challenges/animated_square_page.dart';
+import 'package:animated_custom_painter/src/widgets/headers.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {

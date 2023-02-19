@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "designs" "\0"
+            VALUE "FileDescription", "animated_custom_painter" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "designs" "\0"
+            VALUE "InternalName", "animated_custom_painter" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "designs.exe" "\0"
-            VALUE "ProductName", "designs" "\0"
+            VALUE "OriginalFilename", "animated_custom_painter.exe" "\0"
+            VALUE "ProductName", "animated_custom_painter" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

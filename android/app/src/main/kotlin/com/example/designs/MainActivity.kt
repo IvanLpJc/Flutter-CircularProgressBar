@@ -1,4 +1,4 @@
-package com.example.designs
+package com.example.animated_custom_painter
 
 import io.flutter.embedding.android.FlutterActivity
 
