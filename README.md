@@ -1,16 +1,12 @@
-# animated_custom_painter
+# Custom Painter - Circular Progress Bar
 
-A new Flutter project.
+Continuation of ![Basic animatons](https://github.com/IvanLpJc/Flutter-Basic-Animations) for creating a Circular Progress Bar
 
-## Getting Started
+## Screenshots
+| Squared Header | Curved Header | Diagonal Header | Full Diagonal Header
+|---|---|---|---|
+| <img src="https://github.com/IvanLpJc/Flutter-Basic-Animations/blob/main/screenshots/squared_header.jpeg" width=200px> | <img src="https://github.com/IvanLpJc/Flutter-Basic-Animations/blob/main/screenshots/curved_header.jpeg" width=200px> | <img src="https://github.com/IvanLpJc/Flutter-Basic-Animations/blob/main/screenshots/diagonal_header.jpeg" width=200px> | <img src="https://github.com/IvanLpJc/Flutter-Basic-Animations/blob/main/screenshots/full_diagonal.jpeg" width=200px> |
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Triangle Header | Wave Header | Animated Square |
+|---|---|---|
+| <img src="https://github.com/IvanLpJc/Flutter-Basic-Animations/blob/main/screenshots/triangle_header.jpeg" width=200px> | <img src="https://github.com/IvanLpJc/Flutter-Basic-Animations/blob/main/screenshots/wave_header.jpeg" width=200px> | <img src="https://github.com/IvanLpJc/Flutter-Basic-Animations/blob/main/screenshots/animated_square.gif" width=200px> |
