@@ -1,7 +1,4 @@
-import 'package:animated_custom_painter/src/challenges/animated_square_page.dart';
-import 'package:animated_custom_painter/src/pages/animations_page.dart';
-import 'package:animated_custom_painter/src/pages/headers_page.dart';
-import 'package:animated_custom_painter/src/pages/home_page.dart';
+import 'package:animated_custom_painter/src/pages/circular_graphs_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -17,11 +14,11 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'animated_custom_painter app',
-      theme: ThemeData(
+      theme: ThemeData.dark().copyWith(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: HomePage(),
+      home: CircularGraphsPage(),
     );
   }
 }
