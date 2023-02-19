@@ -1,6 +1,6 @@
 # Custom Painter - Circular Progress Bar
 
-Continuation of ![Basic animatons](https://github.com/IvanLpJc/Flutter-Basic-Animations) for creating a Circular Progress Bar
+Continuation of [Basic animatons project](https://github.com/IvanLpJc/Flutter-Basic-Animations) for creating a Circular Progress Bar
 
 ## Screenshots
 | Squared Header | Curved Header | Diagonal Header | Full Diagonal Header
