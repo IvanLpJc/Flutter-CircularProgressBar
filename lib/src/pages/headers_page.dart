@@ -8,7 +8,7 @@ class HeadersPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return SafeArea(
       child: const Scaffold(
-        body: CurvedHeader(),
+        body: SquaredHeader(),
       ),
     );
   }

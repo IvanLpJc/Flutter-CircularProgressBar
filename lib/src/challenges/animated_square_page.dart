@@ -36,18 +36,18 @@ class _AnimatedSquareState extends State<_AnimatedSquare>
 
     moveRight = Tween(begin: 0.0, end: 100.0).animate(CurvedAnimation(
         parent: controller,
-        curve: const Interval(0.0, 0.25, curve: Curves.linearToEaseOut)));
+        curve: const Interval(0.0, 0.25, curve: Curves.bounceOut)));
 
     moveUp = Tween(begin: 0.0, end: -100.0).animate(CurvedAnimation(
         parent: controller,
-        curve: const Interval(0.25, 0.5, curve: Curves.linearToEaseOut)));
+        curve: const Interval(0.25, 0.5, curve: Curves.bounceOut)));
 
     moveLeft = Tween(begin: 0.0, end: -100.0).animate(CurvedAnimation(
         parent: controller,
-        curve: const Interval(0.5, 0.75, curve: Curves.linearToEaseOut)));
+        curve: const Interval(0.5, 0.75, curve: Curves.bounceOut)));
     moveDown = Tween(begin: 0.0, end: 100.0).animate(CurvedAnimation(
         parent: controller,
-        curve: const Interval(0.75, 1, curve: Curves.linearToEaseOut)));
+        curve: const Interval(0.75, 1, curve: Curves.bounceOut)));
 
     super.initState();
   }
